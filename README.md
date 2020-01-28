@@ -1,5 +1,5 @@
 # GoldRush
-goldRush Game with matrics :)
+goldRush Game with matrics 
 ------------------------------------------
 npm install
 ------------------------------------------
